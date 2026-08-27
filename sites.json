@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Louvre - 6 dicembre",
+    "url": "https://ticket.louvre.fr/",
+    "keywords": ["6 décembre", "06/12/2026", "6 dicembre"]
+  },
+  {
+    "name": "Musée d'Orsay - 5 dicembre (weekend 40 anni)",
+    "url": "https://billetterie.musee-orsay.fr/",
+    "keywords": ["5 décembre", "05/12/2026", "5 dicembre", "40 ans"]
+  },
+  {
+    "name": "Musée de l'Orangerie - 6 dicembre",
+    "url": "METTI_QUI_URL_ESATTO_ORANGERIE",
+    "keywords": ["6 décembre", "06/12/2026", "6 dicembre"]
+  }
+]
