@@ -1,17 +1,17 @@
 {
   "Louvre - 6 dicembre": {
-    "hash": "e251d866f8e8b05cf99ab71a675c01da8bd589781154eee49a3e17fd470da6c1",
-    "last_checked": "2026-09-01T22:20:53.468252+00:00",
+    "hash": "f6486f6ec631f4ba71f1daa9ec2991ef7644aa4783153156ec808db496877c36",
+    "last_checked": "2026-09-02T02:37:03.665310+00:00",
     "keyword_hits": []
   },
   "Musée d'Orsay - 5 dicembre (weekend 40 anni)": {
-    "hash": "8f5e79ebf644b693dcb75c6c69dbded5a728cfc7fa7243609dd3c66696781ddd",
-    "last_checked": "2026-09-01T22:20:57.519581+00:00",
+    "hash": "dad5cd679a6f469b2c9e115d40c399f051103f768df16bc138e6b14d26e6eb50",
+    "last_checked": "2026-09-02T02:37:07.799351+00:00",
     "keyword_hits": []
   },
   "Musée de l'Orangerie - 6 dicembre": {
     "hash": "63b305693d9cd66ea34aa9409c052e19940f7518ccc964b9af55db5c8e719612",
-    "last_checked": "2026-09-01T22:21:04.261970+00:00",
+    "last_checked": "2026-09-02T02:37:14.015904+00:00",
     "keyword_hits": []
   }
 }
